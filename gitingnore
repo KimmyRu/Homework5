@@ -1,0 +1,4 @@
+.env
+temp/
+.DS*.*
+node_modules/
